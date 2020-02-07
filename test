@@ -1,12 +1,0 @@
-spawn ./ponos_ip.sh
-[master b4a8f87] vendredi 7 février 2020, 15:41:53 (UTC+0100)
- 2 files changed, 1 insertion(+), 1 deletion(-)
-Username for 'https://github.com': chhfhjbvhkfyggjkbvv@gmail.com
-Password for 'https://chhfhjbvhkfyggjkbvv@gmail.com@github.com': 
-Counting objects: 3, done.
-Delta compression using up to 4 threads.
-Compressing objects:  50% (1/2)   Compressing objects: 100% (2/2)   Compressing objects: 100% (2/2), done.
-Writing objects:  50% (1/2)   Writing objects: 100% (2/2)   Writing objects: 100% (2/2), 390 bytes | 0 bytes/s, done.
-Total 2 (delta 0), reused 0 (delta 0)
-To https://github.com/chhfhjbvhkfyggjkbvv/ponos_ip.git
-   e82826c..b4a8f87  master -> master
