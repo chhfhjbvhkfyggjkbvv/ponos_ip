@@ -7,4 +7,4 @@ git config user.name "chhfhjbvhkfyggjkbvv"
 git config user.email "chhfhjbvhkfyggjkbvv@gmail.com"
 git add --all
 git commit -am "$(date)"
-git push https://chhfhjbvhkfyggjkbvv:%40Marseille2020@github.com/chhfhjbvhkfyggjkbvv/ponos_ip.git
+git push origin --all
