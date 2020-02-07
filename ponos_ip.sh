@@ -1,6 +1,5 @@
 #!/bin/bash
 
-git pull origin master
 ponos_ip=$(curl -s ip.engles.fr)
 echo -n "${ponos_ip}" > ./ip
 git config --global push.default matching
